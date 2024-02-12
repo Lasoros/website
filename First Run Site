@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Beacercreek Key Fobs</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="keywords"
+      content="Car, Car Key, Key Fob, Fob, beavercreek, ohio"
+    />
+    <meta
+      name="description"
+      content="Beavercreek Ohio replacement Key Fobs for most vehicles"
+    />
+    <title>Document</title>
+    <link rel="icon" type="image.png" href="images/purpfavicon.png" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Honk&display=swap"
+      rel="stylesheet"
+    />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Bungee&family=Honk&display=swap"
+      rel="stylesheet"
+    />
+
+    <style>
+      body {
+        margin: 0;
+        font-family: "Bungee", sans-serif;
+        color: rgb(0, 0, 0);
+        background: #202730;
+        overflow-x: hidden;
+      }
+
+      section {
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        min-height: 350px;
+        padding: 100px 20vw;
+      }
+
+      .blue {
+        background: #b831dd;
+        background-size: 20%;
+      }
+
+      .red {
+        background: #653887;
+      }
+
+      .pink {
+        background: #792084;
+      }
+
+      .orange {
+        background: #ab12d1;
+      }
+
+      .dark {
+        background: #a02b90;
+      }
+
+      .curve {
+        position: absolute;
+        height: 225px;
+        width: 100%;
+        bottom: 0;
+      }
+
+      .curve::before {
+        content: "";
+        display: block;
+        position: absolute;
+        border-radius: 92% 83%;
+        width: 60%;
+        height: 100%;
+        background-color: #653887;
+        transform: translate(83%, 60%);
+      }
+
+      .curve::after {
+        content: "";
+        display: block;
+        position: absolute;
+        border-radius: 200% 75%;
+        width: 57%;
+        height: 100%;
+        background-color: #b831dd;
+        transform: translate(-10%, 60%);
+        z-index: 1;
+      }
+
+      .easierWave {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        overflow: hidden;
+        line-height: 0;
+      }
+
+      .easierWave svg {
+        position: relative;
+        display: block;
+        width: calc(116% + 1.3px);
+        height: 215px;
+      }
+
+      .easierWave .shape-fill {
+        fill: #653887;
+      }
+
+      .triangle {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        overflow: hidden;
+        line-height: 0;
+      }
+
+      .triangle {
+        position: absolute;
+        display: block;
+        width: calc(100% + 1.3px);
+        height: 93px;
+      }
+
+      .triangle {
+        fill: #792084;
+      }
+
+      .spacer {
+        aspect-ratio: 960/300;
+        width: 100%;
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+      }
+
+      .bottomLayer {
+        background-image: url("./bottomLayer.svg");
+        height: 280px;
+      }
+
+      .keyfobimg {
+        aspect-ratio: 450/263;
+        background-image: url("images/keyfobsfix.png");
+        height: 200px;
+        width: 450px;
+        border-radius: 50%;
+        object-fit: cover;
+      }
+    </style>
+  </head>
+  <body>
+    <section class="blue">
+      <div class="keyfobimg" alt="Key Fob Pile"></div>
+      <h1>Beavercreek Key Fobs</h1>
+      <p>
+        Welcome to Beavercreek Key Fobs! We hope our prices our amenable to all
+        walks of life.
+      </p>
+      <div class="curve"></div>
+    </section>
+
+    <section class="red">
+      <br />
+      <br />
+      <h2 style="color: rgb(0, 0, 0)"><u>Prices</u></h2>
+
+      <p>
+        Our prices vary depending on what quality of service you are looking
+        for. Factors such as: Are you in need of a brand new Key Fob (along with
+        what quality of Fob you are lookin for), Are you just needing a quick
+        fix of your current Fob, Does your car need to have all Fobs earased
+        from memory, etc
+      </p>
+
+      <p>
+        In general prices range from the $50-$150. A far cry from the $450+
+        price point most dealerships will charge.
+      </p>
+    </section>
+    <section class="pink">
+      <br />
+      <br />
+      <h2>Why Use Us?</h2>
+      <p>
+        This business was started due to the founder being in your shoes. You
+        are down a Key Fob for one reason or another. Be that dropped, broken,
+        lost, eaten by the dog, it doesn't matter. You have already called the
+        Dealership to be hit with the aforementioned $450+ price tag of a new
+        Fob and thought.
+      </p>
+
+      <br />
+      <br />
+
+      <h2 style="color: #000000"><u>There has to be another way!</u></h2>
+
+      <p>
+        Well you are in luck! The founder of Beavercreekfobs was in your shoes
+        and bought the tools to do what the dealership does for pennies on the
+        dollar.
+      </p>
+
+      <div class="easierWave">
+        <svg
+          data-name="Layer 1"
+          xmlns="http://www.w3.org/2000/svg"
+          viewBox="0 0 1200 120"
+          preserveAspectRatio="none"
+        >
+          <path
+            d="M321.39,56.44c58-10.79,114.16-30.13,172-41.86,82.39-16.72,168.19-17.73,250.45-.39C823.78,31,906.67,72,985.66,92.83c70.05,18.48,146.53,26.09,214.34,3V0H0V27.35A600.21,600.21,0,0,0,321.39,56.44Z"
+            class="shape-fill"
+          ></path>
+        </svg>
+      </div>
+    </section>
+    <section class="dark">
+      <br /><br />
+
+      <h2>Vehicle Check List</h2>
+      <p>
+        Please use the following link to make sure your Vehicle is available to
+        be serviced, be sure to have product model as KM100(MMO). If unable feel
+        free to call or email with Vehicle: Make, Model, and Year.
+      </p>
+
+      <a href="https://autel.com/vehicle-coverage/coverage2" target="_blank">
+        KM100(MMI) Product Model</a
+      >
+
+      <div class="triangle">
+        <svg
+          data-name="Layer 1"
+          xmlns="http://www.w3.org/2000/svg"
+          viewBox="0 0 1200 100"
+          preserveAspectRatio="none"
+        >
+          <path d="M1200 0L0 0 892.25 114.72 1200 0z" class="shape-fill"></path>
+        </svg>
+      </div>
+    </section>
+
+    <div class="spacer bottomLayer"></div>
+
+    <section class="blue">
+      <h2>Contact</h2>
+      <p>Feel free to contact via Email or Phone!</p>
+
+      <a href="beavercreekfobs@hotmail.com"> Email Me Here </a>
+
+      <p>Phone Number: Coming Soon</p>
+    </section>
+  </body>
+</html>
